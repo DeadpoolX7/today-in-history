@@ -17,18 +17,15 @@ try:
     response.raise_for_status()
     data = response.json()
 
-    # Extract events from the response
-    events = []
-    if "data" in data and "Events" in data["data"]:
-        for event in data["data"]["Events"]:
-            year = int(event.get("year", "0"))
-            if 1990 <= year <= 1999:  # Filter events from the 1990s
-                text = event.get("text", "")
-                events.append(f"{year}: {text}")
+    # Extract events from the response (only from the 1990s)
+    events = [
+        f"{event['year']}: {event['text']}"
+        for event in data.get("data", {}).get("Events", [])
+        if 1990 <= int(event.get("year", 0)) <= 1999
+    ]
 
     # Format the output
-    formatted_events = "\n".join([f"- {event}" for event in events]) if events else "No events found."
-
+    formatted_events = "\n".join([f"- {event}" for event in events]) if events else "No events found from the 90s."
 
     # Update README.md
     with open("README.md", "w", encoding="utf-8") as file:
