@@ -2,10 +2,8 @@
 
 📅 **February 26**
 
-- 747 BC: According to Ptolemy, the epoch (origin) of the Nabonassar Era began at noon on this date. Historians use this to establish the modern BC chronology for dating historic events.
-- 320: Chandragupta I is officially crowned as the first Gupta emperor.
-- 364: Valentinian I is proclaimed Roman emperor.
-- 1266: Battle of Benevento: An army led by Charles, Count of Anjou, defeats a combined German and Sicilian force led by Manfred, King of Sicily. Manfred is killed in the battle and Pope Clement IV invests Charles as king of Sicily and Naples.
-- 1365: The Ava Kingdom and the royal city of Ava (Inwa) founded by King Thado Minbya.
+- 1992: First Nagorno-Karabakh War: Khojaly Massacre: Armenian armed forces open fire on Azeri civilians at a military post outside the town of Khojaly leaving hundreds dead.
+- 1993: World Trade Center bombing: In New York City, a truck bomb parked below the North Tower of the World Trade Center explodes, killing six and injuring over a thousand people.
+- 1995: The UK's oldest investment banking institute, Barings Bank, collapses after a rogue securities broker Nick Leeson loses $1.4 billion by speculating on the Singapore International Monetary Exchange using futures contracts.
 
 *(Auto-updated daily by GitHub Actions!)*
