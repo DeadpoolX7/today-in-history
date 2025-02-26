@@ -18,11 +18,18 @@ try:
     data = response.json()
 
     # Extract events from the response (only from the 1990s)
-    events = [
-        f"{event['year']}: {event['text']}"
-        for event in data.get("data", {}).get("Events", [])
-        if 1990 <= int(event.get("year", 0)) <= 1999
-    ]
+    events = []
+    for event in data.get("data", {}).get("Events", []):
+        year_str = event.get("year", "")
+        if "BC" in year_str:
+            continue  # Skip BC years
+        
+        try:
+            year = int(year_str)
+            if 1990 <= year <= 1999:
+                events.append(f"{year}: {event.get('text', '')}")
+        except ValueError:
+            continue  # Skip invalid year formats
 
     # Format the output
     formatted_events = "\n".join([f"- {event}" for event in events]) if events else "No events found from the 90s."
