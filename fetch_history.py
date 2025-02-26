@@ -20,13 +20,15 @@ try:
     # Extract events from the response
     events = []
     if "data" in data and "Events" in data["data"]:
-        for event in data["data"]["Events"][:5]:  # Get top 5 events
-            year = event.get("year", "")
-            text = event.get("text", "")
-            events.append(f"{year}: {text}")
+        for event in data["data"]["Events"]:
+            year = int(event.get("year", "0"))
+            if 1990 <= year <= 1999:  # Filter events from the 1990s
+                text = event.get("text", "")
+                events.append(f"{year}: {text}")
 
     # Format the output
     formatted_events = "\n".join([f"- {event}" for event in events]) if events else "No events found."
+
 
     # Update README.md
     with open("README.md", "w", encoding="utf-8") as file:
