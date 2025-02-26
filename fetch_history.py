@@ -1,31 +1,26 @@
 import requests
 import datetime
+import sys
 
 # Get today's date
 today = datetime.datetime.now()
-month = today.strftime("%m")  # Get month as MM
-day = today.strftime("%d")    # Get day as DD
+month = today.strftime("%-m")  # Get month as M (1-12)
+day = today.strftime("%-d")    # Get day as D (1-31)
 formatted_date = today.strftime("%B %d")  # For display (Example: "February 26")
 
-# Wikipedia API URL for "On This Day" events
-BASE_URL = "https://api.wikipedia.org/feed/v1/wikipedia/en/onthisday/selected"
-URL = f"{BASE_URL}/{month}/{day}"
+# Muffinlabs History API URL
+URL = f"https://history.muffinlabs.com/date/{month}/{day}"
 
 try:
-    # Add proper headers as required by Wikipedia API
-    headers = {
-        "User-Agent": "TodayInHistory/1.0 (https://github.com/DeadpoolX7/today-in-history)"
-    }
-    
-    response = requests.get(URL, headers=headers)
-    #response.raise_for_status()  # Raise exception for bad status codes
+    # Make the request
+    response = requests.get(URL, timeout=10)
+    response.raise_for_status()
     data = response.json()
 
     # Extract events from the response
-    # The API returns events in a different structure
     events = []
-    if "selected" in data:
-        for event in data["selected"][:5]:  # Get top 5 events
+    if "data" in data and "Events" in data["data"]:
+        for event in data["data"]["Events"][:5]:  # Get top 5 events
             year = event.get("year", "")
             text = event.get("text", "")
             events.append(f"{year}: {text}")
@@ -42,5 +37,9 @@ try:
 
     print("README.md updated successfully!")
 
+except requests.exceptions.RequestException as e:
+    print(f"Network error occurred: {e}", file=sys.stderr)
+    sys.exit(1)
 except Exception as e:
-    print("Error fetching data:", e)
+    print(f"Error fetching data: {e}", file=sys.stderr)
+    sys.exit(1)
