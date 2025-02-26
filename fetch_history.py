@@ -17,8 +17,8 @@ try:
         "User-Agent": "TodayInHistory/1.0 (https://github.com/DeadpoolX7/today-in-history)"
     }
     
-    response = requests.get(URL, headers=headers, timeout=30)
-    response.raise_for_status()  # Raise exception for bad status codes
+    response = requests.get(URL, headers=headers)
+    #response.raise_for_status()  # Raise exception for bad status codes
     data = response.json()
 
     # Extract events from the response
