@@ -1,7 +1,7 @@
 # Today in History 📅
 
-📅 **March 06**
+📅 **March 07**
 
-- 1992: The Michelangelo computer virus begins to affect computers.
+- 1993: The tugboat Thomas Hebert sank off the coast of New Jersey, USA.
 
 *(Auto-updated daily by GitHub Actions!)*
