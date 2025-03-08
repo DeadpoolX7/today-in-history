@@ -1,7 +1,7 @@
 # Today in History 📅
 
-📅 **March 07**
+📅 **March 08**
 
-- 1993: The tugboat Thomas Hebert sank off the coast of New Jersey, USA.
+- 1994: A collision at Indira Gandhi International Airport kills 9 people.
 
 *(Auto-updated daily by GitHub Actions!)*
