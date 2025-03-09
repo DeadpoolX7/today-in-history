@@ -1,7 +1,7 @@
 # Today in History 📅
 
-📅 **March 08**
+📅 **March 09**
 
-- 1994: A collision at Indira Gandhi International Airport kills 9 people.
+- 1997: Comet Hale-Bopp: Observers in China, Mongolia and eastern Siberia are treated to a rare double feature as an eclipse permits Hale-Bopp to be seen during the day.
 
 *(Auto-updated daily by GitHub Actions!)*
