@@ -1,7 +1,8 @@
 # Today in History 📅
 
-📅 **March 09**
+📅 **March 10**
 
-- 1997: Comet Hale-Bopp: Observers in China, Mongolia and eastern Siberia are treated to a rare double feature as an eclipse permits Hale-Bopp to be seen during the day.
+- 1990: In Haiti, Prosper Avril is ousted eighteen months after seizing power in a coup d'état in September 1988.
+- 1991: 1991 Salvadoran legislative election: The Nationalist Republican Alliance wins 39 of the 84 seats in the Legislative Assembly of El Salvador.
 
 *(Auto-updated daily by GitHub Actions!)*
