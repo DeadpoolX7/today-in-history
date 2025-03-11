@@ -1,8 +1,8 @@
 # Today in History 📅
 
-📅 **March 10**
+📅 **March 11**
 
-- 1990: In Haiti, Prosper Avril is ousted eighteen months after seizing power in a coup d'état in September 1988.
-- 1991: 1991 Salvadoran legislative election: The Nationalist Republican Alliance wins 39 of the 84 seats in the Legislative Assembly of El Salvador.
+- 1990: Lithuania declares independence from the Soviet Union.
+- 1990: Patricio Aylwin is sworn in as the first democratically elected President of Chile since 1970.
 
 *(Auto-updated daily by GitHub Actions!)*
