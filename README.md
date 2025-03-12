@@ -1,8 +1,10 @@
 # Today in History 📅
 
-📅 **March 11**
+📅 **March 12**
 
-- 1990: Lithuania declares independence from the Soviet Union.
-- 1990: Patricio Aylwin is sworn in as the first democratically elected President of Chile since 1970.
+- 1992: Mauritius becomes a republic while remaining a member of the Commonwealth of Nations.
+- 1993: Several bombs explode in Mumbai, India, killing about 300 people and injuring hundreds more.
+- 1993: North Korea announces that it will withdraw from the Treaty on the Non-Proliferation of Nuclear Weapons and refuses to allow inspectors access to its nuclear sites.
+- 1999: Former Warsaw Pact members the Czech Republic, Hungary and Poland join NATO.
 
 *(Auto-updated daily by GitHub Actions!)*
