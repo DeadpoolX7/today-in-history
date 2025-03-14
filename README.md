@@ -1,10 +1,7 @@
 # Today in History 📅
 
-📅 **March 13**
+📅 **March 14**
 
-- 1992: The Mw  6.6 Erzincan earthquake strikes eastern Turkey with a maximum Mercalli intensity of VIII (Severe).
-- 1993: The 1993 Storm of the Century affects the eastern United States, dropping feet of snow in many areas.
-- 1996: The Dunblane massacre leads to the death of sixteen primary school children and one teacher in Dunblane, Scotland.
-- 1997: The Missionaries of Charity choose Sister Nirmala to succeed Mother Teresa as their leader.
+- 1995: Norman Thagard becomes the first American astronaut to ride to space on board a Russian launch vehicle.
 
 *(Auto-updated daily by GitHub Actions!)*
