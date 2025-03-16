@@ -1,8 +1,7 @@
 # Today in History 📅
 
-📅 **March 15**
+📅 **March 16**
 
-- 1990: Mikhail Gorbachev is elected as the first President of the Soviet Union.
-- 1991: Cold War: The Treaty on the Final Settlement with Respect to Germany comes into effect, granting full sovereignty to the Federal Republic of Germany.
+- 1995: Mississippi formally ratifies the Thirteenth Amendment to the United States Constitution, becoming the last state to approve the abolition of slavery. The Thirteenth Amendment was officially ratified in 1865.
 
 *(Auto-updated daily by GitHub Actions!)*
