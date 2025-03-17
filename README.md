@@ -1,7 +1,8 @@
 # Today in History 📅
 
-📅 **March 16**
+📅 **March 17**
 
-- 1995: Mississippi formally ratifies the Thirteenth Amendment to the United States Constitution, becoming the last state to approve the abolition of slavery. The Thirteenth Amendment was officially ratified in 1865.
+- 1992: Israeli Embassy attack in Buenos Aires: Car bomb attack kills 29 and injures 242.
+- 1992: A referendum to end apartheid in South Africa is passed 68.7% to 31.2%.
 
 *(Auto-updated daily by GitHub Actions!)*
