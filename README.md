@@ -1,10 +1,9 @@
 # Today in History 📅
 
-📅 **March 20**
+📅 **March 21**
 
-- 1990: Ferdinand Marcos's widow, Imelda Marcos, goes on trial for bribery, embezzlement, and racketeering.
-- 1993: The Troubles: A Provisional IRA bomb kills two children in Warrington, England. It leads to mass protests in both Britain and Ireland.
-- 1995: The Japanese cult Aum Shinrikyo carries out a sarin gas attack on the Tokyo subway, killing 13 and wounding over 6,200 people.
-- 1999: Legoland California, the first Legoland outside of Europe, opens in Carlsbad, California, US.
+- 1990: Namibia becomes independent after 75 years of South African rule.
+- 1994: The United Nations Framework Convention on Climate Change enters into force.
+- 1999: Bertrand Piccard and Brian Jones become the first to circumnavigate the Earth in a hot air balloon.
 
 *(Auto-updated daily by GitHub Actions!)*
