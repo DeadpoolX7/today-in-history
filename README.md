@@ -1,12 +1,14 @@
 # Today in History 📅
 
-📅 **March 23**
+📅 **March 24**
 
-- 1991: The Revolutionary United Front, with support from the special forces of Charles Taylor's National Patriotic Front of Liberia, invades Sierra Leone in an attempt to overthrow Joseph Saidu Momoh, sparking the 11-year Sierra Leone Civil War.
-- 1994: At an election rally in Tijuana, Mexican presidential candidate Luis Donaldo Colosio is assassinated by Mario Aburto Martínez.
-- 1994: A United States Air Force (USAF) F-16 aircraft collides with a USAF C-130 at Pope Air Force Base and then crashes, killing 24 United States Army soldiers on the ground. This later became known as the Green Ramp disaster.
-- 1994: Aeroflot Flight 593 crashed into the Kuznetsk Alatau mountain, Kemerovo Oblast, Russia, killing 75.
-- 1996: Taiwan holds its first direct elections and chooses Lee Teng-hui as President.
-- 1999: Gunmen assassinate Paraguay's Vice President Luis María Argaña.
+- 1990: Indian intervention in the Sri Lankan Civil War ends with last ship of Indian Peace Keeping Force leaving Sri Lanka.
+- 1992: Space Shuttle Atlantis launches on STS-45.
+- 1993: Comet Shoemaker-Levy 9 is discovered by Carolyn and Eugene Shoemaker, and David Levy at the Palomar Observatory in California.
+- 1998: Mitchell Johnson and Andrew Golden, aged 11 and 13 respectively, open fire upon teachers and students at Westside Middle School in Jonesboro, Arkansas; five people are killed and ten are wounded.
+- 1998: A tornado sweeps through Dantan in India, killing 250 people and injuring 3,000 others.
+- 1998: Dr. Rüdiger Marmulla performed the first computer-assisted Bone Segment Navigation at the University of Regensburg, Germany.
+- 1999: Kosovo War: NATO began attacks on Yugoslavia without United Nations Security Council (UNSC) approval, marking the first time NATO has attacked a sovereign country.
+- 1999: A lorry carrying margarine and flour catches fire inside the Mont Blanc Tunnel, creating an inferno that kills 38 people.
 
 *(Auto-updated daily by GitHub Actions!)*
