@@ -1,8 +1,9 @@
 # Today in History 📅
 
-📅 **March 25**
+📅 **March 28**
 
-- 1995: WikiWikiWeb, the world's first wiki, and part of the Portland Pattern Repository, is made public by Ward Cunningham.
-- 1996: The European Union's Veterinarian Committee bans the export of British beef and its by-products as a result of mad cow disease (Bovine spongiform encephalopathy).
+- 1990: United States President George H. W. Bush posthumously awards Jesse Owens the Congressional Gold Medal.
+- 1994: In South Africa, African National Congress security guards kill dozens of Inkatha Freedom Party protesters.
+- 1999: Kosovo War: Serb paramilitary and military forces kill at least 130 Kosovo Albanians in Izbica.
 
 *(Auto-updated daily by GitHub Actions!)*
