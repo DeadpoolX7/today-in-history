@@ -1,9 +1,9 @@
 # Today in History 📅
 
-📅 **March 28**
+📅 **March 29**
 
-- 1990: United States President George H. W. Bush posthumously awards Jesse Owens the Congressional Gold Medal.
-- 1994: In South Africa, African National Congress security guards kill dozens of Inkatha Freedom Party protesters.
-- 1999: Kosovo War: Serb paramilitary and military forces kill at least 130 Kosovo Albanians in Izbica.
+- 1990: The Czechoslovak parliament is unable to reach an agreement on what to call the country after the fall of Communism, sparking the so-called Hyphen War.
+- 1999: The Dow Jones Industrial Average closes above the 10,000 mark (10,006.78) for the first time, during the height of the dot-com bubble.
+- 1999: A magnitude 6.8 earthquake in India strikes the Chamoli district in Uttar Pradesh, killing 103.
 
 *(Auto-updated daily by GitHub Actions!)*
