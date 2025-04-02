@@ -1,9 +1,9 @@
 # Today in History 📅
 
-📅 **April 01**
+📅 **April 02**
 
-- 1993: NASCAR racer Alan Kulwicki is killed in a plane crash near the Tri-Cities Regional Airport in Blountville, Tennessee.
-- 1997: Comet Hale-Bopp is seen passing at perihelion.
-- 1999: Nunavut is established as a Canadian territory carved out of the eastern part of the Northwest Territories.
+- 1991: Rita Johnston becomes the first female Premier of a Canadian province when she succeeds William Vander Zalm (who had resigned) as Premier of British Columbia.
+- 1992: In New York, Mafia boss John Gotti is convicted of murder and racketeering and is later sentenced to life in prison.
+- 1992: Forty-two civilians are massacred in the town of Bijeljina in Bosnia and Herzegovina.
 
 *(Auto-updated daily by GitHub Actions!)*
