@@ -1,9 +1,10 @@
 # Today in History 📅
 
-📅 **April 02**
+📅 **April 03**
 
-- 1991: Rita Johnston becomes the first female Premier of a Canadian province when she succeeds William Vander Zalm (who had resigned) as Premier of British Columbia.
-- 1992: In New York, Mafia boss John Gotti is convicted of murder and racketeering and is later sentenced to life in prison.
-- 1992: Forty-two civilians are massacred in the town of Bijeljina in Bosnia and Herzegovina.
+- 1993: The outcome of the Grand National horse race is declared void for the first (and only) time
+- 1996: Suspected "Unabomber" Theodore Kaczynski is captured at his Montana cabin in the United States.
+- 1996: A United States Air Force Boeing T-43 crashes near Dubrovnik Airport in Croatia, killing 35, including Secretary of Commerce Ron Brown.
+- 1997: The Thalit massacre begins in Algeria; all but one of the 53 inhabitants of Thalit are killed by guerrillas.
 
 *(Auto-updated daily by GitHub Actions!)*
