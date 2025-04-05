@@ -1,12 +1,12 @@
 # Today in History 📅
 
-📅 **April 04**
+📅 **April 05**
 
-- 1990: The current flag of Hong Kong is adopted for post-colonial Hong Kong during the Third Session of the Seventh National People's Congress.
-- 1991: Senator John Heinz of Pennsylvania and six others are killed when a helicopter collides with their airplane over an elementary school in Merion, Pennsylvania.
-- 1991: Forty-one people are taken hostage inside a Good Guys! Electronics store in Sacramento, California. Three of the hostage takers and three hostages are killed.
-- 1994: Three people are killed when KLM Cityhopper Flight 433 crashes at Amsterdam Airport Schiphol.
-- 1996: Comet Hyakutake is imaged by the USA Asteroid Orbiter Near Earth Asteroid Rendezvous.
-- 1997: Space Shuttle program: Space Shuttle Columbia is launched on STS-83. However, the mission is later cut short due to a fuel cell problem.
+- 1991: An ASA EMB 120 crashes in Brunswick, Georgia, killing all 23 aboard including Sen. John Tower and astronaut Sonny Carter.
+- 1991: The Space shuttle Atlantis launches on STS-37 to deploy the Compton Gamma Ray Observatory.
+- 1992: Alberto Fujimori, president of Peru, dissolves the Peruvian congress by military force.
+- 1992: Peace protesters Suada Dilberovic and Olga Sučić are killed on the Vrbanja Bridge in Sarajevo, becoming the first casualties of the Bosnian War.
+- 1998: In Japan, the Akashi Kaikyō Bridge opens to traffic, becoming the longest bridge span in the world.
+- 1999: Two Libyans suspected of bringing down Pan Am Flight 103 in 1988 are handed over for eventual trial in the Netherlands.
 
 *(Auto-updated daily by GitHub Actions!)*
