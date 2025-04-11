@@ -1,9 +1,8 @@
 # Today in History 📅
 
-📅 **April 10**
+📅 **April 11**
 
-- 1991: Italian ferry MS Moby Prince collides with an oil tanker in dense fog off Livorno, Italy, killing 140.
-- 1991: A rare tropical storm develops in the South Atlantic Ocean near Angola; the first to be documented by satellites.
-- 1998: The Good Friday Agreement is signed in Northern Ireland.
+- 1990: Customs officers in Middlesbrough, England, seize what they believe to be the barrel of a massive gun on a ship bound for Iraq.
+- 1993: Four hundred fifty prisoners rioted at the Southern Ohio Correctional Facility in Lucasville, Ohio, and continued to do so for ten days, citing grievances related to prison conditions, as well as the forced vaccination of Nation of Islam prisoners (for tuberculosis) against their religious beliefs.
 
 *(Auto-updated daily by GitHub Actions!)*
